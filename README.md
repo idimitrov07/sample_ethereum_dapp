@@ -1,2 +1,1 @@
-# sample_ethereum_dapp
-Sample Election Dapp running on Ethereum Test nework
+Sample Election DAPP running on Ethereum Test network
